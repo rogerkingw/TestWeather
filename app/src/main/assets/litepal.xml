@@ -1,0 +1,13 @@
+<litepal>
+
+    <dbname value="test_weather" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.hytx.testweather.db.Province" />
+        <mapping class="com.hytx.testweather.db.City" />
+        <mapping class="com.hytx.testweather.db.County" />
+    </list>
+
+</litepal>
